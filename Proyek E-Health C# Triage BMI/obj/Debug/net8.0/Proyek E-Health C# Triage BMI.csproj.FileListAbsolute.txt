@@ -1,0 +1,14 @@
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\bin\Debug\net8.0\Proyek E-Health C# Triage BMI.exe
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\bin\Debug\net8.0\Proyek E-Health C# Triage BMI.deps.json
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\bin\Debug\net8.0\Proyek E-Health C# Triage BMI.runtimeconfig.json
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\bin\Debug\net8.0\Proyek E-Health C# Triage BMI.dll
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\bin\Debug\net8.0\Proyek E-Health C# Triage BMI.pdb
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.AssemblyInfoInputs.cache
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.AssemblyInfo.cs
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.csproj.CoreCompileInputs.cache
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.dll
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\refint\Proyek E-Health C# Triage BMI.dll
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.pdb
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\Proyek E-Health C# Triage BMI.genruntimeconfig.cache
+C:\Users\maula\OneDrive\Documents\Proyek E-Health C# Triage BMI\Proyek E-Health C# Triage BMI\obj\Debug\net8.0\ref\Proyek E-Health C# Triage BMI.dll
