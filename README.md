@@ -1,4 +1,4 @@
-# E-Health Triage System (Tugas Pemrograman Lanjut)
+# E-Health Triage System (Tugas 2 Mata Kuliah Pemrograman Lanjut)
 
 Program Console App sederhana menggunakan bahasa C# untuk menghitung dan mengurutkan data BMI pasien. Project ini dibuat untuk memenuhi tugas mata kuliah **Pemrograman Lanjut**.
 
@@ -10,7 +10,7 @@ Program Console App sederhana menggunakan bahasa C# untuk menghitung dan menguru
 **Kelas:** SI-303  
 **Prodi:** PJJ S1 - Sistem Informasi  
 **Kampus:** Universitas Siber Asia  
-**Dosen:** Agung Riyadi, S.Kom., M.Kom.
+**Dosen:** Bapak Agung Riyadi, S.Kom., M.Kom.
 
 ### 👥 Disusun Oleh: Kelompok 20
 | NIM | Nama |
